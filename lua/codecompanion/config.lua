@@ -42,6 +42,7 @@ local defaults = {
       codex = "codex",
       gemini_cli = "gemini_cli",
       goose = "goose",
+      iflow_cli = "iflow_cli",
       kimi_cli = "kimi_cli",
       kiro = "kiro",
       mistral_vibe = "mistral_vibe",
